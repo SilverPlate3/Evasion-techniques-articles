@@ -2,6 +2,7 @@
 ## Cynet Security 
 
 [![Cynet](https://user-images.githubusercontent.com/93097769/182300691-c6abf59c-303c-418a-a2b7-2047bf2dc4ca.png)](https://www.cynet.com/)
+
 Written by: Ariel Silver
 
 Article can be found at - 
