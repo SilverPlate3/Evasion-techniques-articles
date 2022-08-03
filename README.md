@@ -1,7 +1,7 @@
 # Evasion techniques 2 - PEB edition 
 ## Cynet Security 
 
-[![Cynet](https://user-images.githubusercontent.com/93097769/182300691-c6abf59c-303c-418a-a2b7-2047bf2dc4ca.png)](https://www.cynet.com/)
+[![Cynet-removebg-preview](https://user-images.githubusercontent.com/93097769/182520121-71f8b132-99b3-4779-95b9-599226829d86.png)](https://www.cynet.com/)
 
 Written by: Ariel Silver
 
