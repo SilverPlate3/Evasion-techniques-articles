@@ -11,7 +11,7 @@ Article can be found at -
 # Intro
 The article explains and shows the following
  - What is the Process Environment Block
- - Different ways adversaries can exploit it, in order to evade user-mode tools and detections.
+ - Different ways adversaries can exploit it in order to evade user-mode tools and detections.
  - Live attack scenarios that show when and how malwares should use it.
  - WinAPI's and system structures (documented and undocumented) that must be used.
  - Most important, how Cynet detects this bevavior.
