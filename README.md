@@ -5,7 +5,7 @@
 
 Written by: Ariel Silver
 
-Article can be found at - 
+Article can be found at - https://www.cynet.com/attack-techniques-hands-on/defense-evasion-techniques-peb-edition/
 
 
 # Intro
