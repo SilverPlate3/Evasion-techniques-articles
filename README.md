@@ -20,7 +20,7 @@ The article explains and shows the following
 # Code 
 - The full code and solutions for these techniqes can be found in the code folder.
 - The code should be compiled in x64 Relsease mode.
-- In order to understand the full code you MUST read the article, as it's very detailed and nuch more in-depth then the code comments. 
+- In order to understand the full code you MUST read the article, as it's very detailed and much more in-depth then the code comments. 
 
 
 
